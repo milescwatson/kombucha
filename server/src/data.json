@@ -1,0 +1,68 @@
+{
+  "relays": {
+    "0": {
+      "mode": "auto",
+      "onSetpoint": ">",
+      "setpoint": "80",
+      "sensorChannel": "0"
+    },
+    "1": {
+      "mode": "off",
+      "onSetpoint": ">",
+      "setpoint": "80",
+      "sensorChannel": "0"
+    },
+    "2": {
+      "mode": "off",
+      "onSetpoint": ">",
+      "setpoint": "80",
+      "sensorChannel": "0"
+    },
+    "3": {
+      "mode": "off",
+      "onSetpoint": ">",
+      "setpoint": "80",
+      "sensorChannel": "0"
+    },
+    "4": {
+      "mode": "off",
+      "onSetpoint": ">",
+      "setpoint": "80",
+      "sensorChannel": "0"
+    }
+  },
+  "sensors": {
+    "0": {
+      "isEnabled": true,
+      "name": "sensor0"
+    },
+    "1": {
+      "isEnabled": true,
+      "name": "sensor1"
+    },
+    "2": {
+      "isEnabled": true,
+      "name": "sensor2"
+    },
+    "3": {
+      "isEnabled": true,
+      "name": "sensor3"
+    },
+    "4": {
+      "isEnabled": true,
+      "name": "sensor4"
+    },
+    "5": {
+      "isEnabled": true,
+      "name": "sensor5"
+    },
+    "6": {
+      "isEnabled": true,
+      "name": "sensor6"
+    },
+    "7": {
+      "isEnabled": true,
+      "name": "sensor7"
+    }
+  }
+}
